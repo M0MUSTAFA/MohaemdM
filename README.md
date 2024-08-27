@@ -8,7 +8,6 @@ I'm currently diving deeper into React.js, Next.js, python, java, and C++ as wel
 
 ## 📫 How to Reach Me
 - LinkedIn: [Mohamed Mustafa]([https://www.linkedin.com/in/mohamedmustafa](https://www.linkedin.com/in/moahemd-mustafa-1b5333162/))
-- Email: mohamed@example.com (replace with your email)
 
 ## ⚡ Fun Fact
 I like longboarding and cruising around campus.
