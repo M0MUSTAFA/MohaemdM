@@ -1,13 +1,19 @@
-- 👋 Hi, I’m Mohamed Mustafa
-  
-## 👀 Interests
-I'm passionate about data analysis, application development, and AI-driven technologies. I enjoy working on projects that solve real-world problems and enhance user experiences.
+# 👋 Hi, I’m Mohamed Mustafa
 
-## 🌱 Currently Learning
-I'm currently diving deeper into React.js, Next.js, python, data , and  data drvin projects as well as exploring AI integrations with APIs like OpenAI as well as. I'm also refining my skills in cloud computing with Firebase and exploring new ways to enhance user authentication and security.
+## 👀 Interests  
+I’m a passionate learner and builder focused on **data analytics**, **application development**, and **AI-powered solutions**. I love creating projects that solve real-world problems, enhance user experiences, and make data more accessible and impactful.
 
-## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/mohamedlink/
+## 🌱 Currently Learning  
+I'm actively deepening my knowledge in:
+- **React.js** & **Next.js** for building dynamic UIs  
+- **Python** for data analysis, automation, and backend services  
+- **Data-driven projects**: cleaning, visualizing, and analyzing data using tools like SQL, Excel, and Tableau  
+- **AI Integrations** using APIs like OpenAI to bring smart functionality to applications  
+- **Firebase** for real-time databases, hosting, and secure user authentication  
+- Exploring **cloud computing** and scalable architectures  
 
-## ⚡ Fun Fact
-I like fruit tea.
+## 📫 How to Reach Me  
+- [LinkedIn](https://www.linkedin.com/in/mohamedlink/)  
+
+## ⚡ Fun Fact  
+I’m a big fan of fruit tea 🍓🍑—it's my go-to fuel while coding or analyzing data.
